@@ -72,7 +72,7 @@ InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault
 Node.js is compiled with [homebrew](http://brew.sh/).
 
 ```shell
-$ clang --version
+$ node --version
 v5.5.0
 ```
 
