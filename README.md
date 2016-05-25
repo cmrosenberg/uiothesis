@@ -3,6 +3,8 @@
 This repository holds the code and data discussed in my master's thesis
 "Leveraging DTrace for Runtime Verification" (forthcoming).
 
+[Thesis document (PDF)](rosenberg_msc.pdf)
+
 The repository is sorted according to the appendix in the thesis:
 
 ## Example scripts
